@@ -1,5 +1,5 @@
 void main() {
-  // Declaring and initialising a variable & operators
+  // Variables & operators
   int a = 10, b = 6, c;
   c = a + b;
   print("Addition..");
